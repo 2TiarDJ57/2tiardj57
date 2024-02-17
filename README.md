@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Bachtiar Dwi Julianto**.<br>
+
+Saya seorang **Cloud Computing Cohort** di [Bangkit Academy](https://www.bangkitacademy.com/).<br>
+
+Saya bertanggung jawab pada kualitas materi Cloud Computing dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+
+Saya juga memiliki gelar Google Associate Cloud Engineer sejak 2024.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bachtiar-dwi-julianto-8b4a2a217/) ku ya.
+
 <!--
 **2TiarDJ57/2tiardj57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
