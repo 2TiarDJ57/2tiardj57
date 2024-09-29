@@ -18,6 +18,8 @@ Saya juga memiliki gelar Google Associate Cloud Engineer sejak 2024.<br>
   <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" /></a>
   <a href="#"><img align="left" alt="Livewire" title="Livewire" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_MZYz26gVyhYDbtuBFmicog9GlOoWsYTrtg&s" /></a>
   <a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
+  <a href="#"><img align="left" alt="React" title="React" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" /></a>
+  <a href="#"><img align="left" alt="Google Cloud Platform" title="GCP" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCWu5PgeV3Q9h7KqIeI1kFC9bDLSp6dPrLIw&s" /></a>
   <br>
   <br>
 
